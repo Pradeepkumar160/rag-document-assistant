@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is RAG?",
+    "answer": "RAG stands for Retrieval-Augmented Generation, a framework that combines document retrieval with language model generation.",
+    "contexts": [
+      "Retrieval-Augmented Generation (RAG) is a framework that retrieves relevant documents and passes them to a large language model to generate grounded, accurate answers."
+    ],
+    "ground_truth": "RAG is Retrieval-Augmented Generation — a method to ground LLM answers in retrieved documents."
+  },
+  {
+    "question": "What are the key components of a RAG system?",
+    "answer": "A RAG system consists of a document store, an embedding model, a vector database, and a language model for generation.",
+    "contexts": [
+      "RAG systems typically include a document ingestion pipeline, an embedding model that converts text to vectors, a vector database for semantic search, and a language model that generates the final answer."
+    ],
+    "ground_truth": "The key components are: document store, embedding model, vector database, retriever, and language model."
+  }
+]
