@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📄 RAG Document Assistant
+# 📄 RAG Document Assistant||
 
 **Upload PDFs → Ask Questions → Get AI-Powered Answers with Source Citations**
 
@@ -22,7 +22,7 @@ Built with **Ollama** (local LLMs), **ChromaDB** (vector storage), **LangChain**
 
 ---
 
-## ✨ Features
+## ✨ Features||
 
 - 📤 **PDF Upload** — drag-and-drop any PDF document
 - 💬 **Semantic Q&A** — ask natural language questions, get context-aware answers
@@ -33,7 +33,7 @@ Built with **Ollama** (local LLMs), **ChromaDB** (vector storage), **LangChain**
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Architecture||
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -60,7 +60,7 @@ Built with **Ollama** (local LLMs), **ChromaDB** (vector storage), **LangChain**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack||
 
 | Layer | Technology | Purpose |
 |---|---|---|
@@ -75,7 +75,7 @@ Built with **Ollama** (local LLMs), **ChromaDB** (vector storage), **LangChain**
 
 ---
 
-## ⚡ Quick Start
+## ⚡ Quick Start||
 
 ### Prerequisites
 
@@ -113,7 +113,7 @@ docker compose up --build -d
 
 ---
 
-## 🌐 Access the Application
+## 🌐 Access the Application||
 
 | Service | URL | Description |
 |---|---|---|
@@ -132,7 +132,7 @@ docker compose up --build -d
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure||
 
 ```
 rag-document-assistant/
@@ -172,7 +172,7 @@ rag-document-assistant/
 
 ---
 
-## 🔌 API Reference
+## 🔌 API Reference||
 
 ### Upload a PDF
 ```http
@@ -220,7 +220,7 @@ GET /evaluation/demo
 
 ---
 
-## ⚙️ Configuration
+## ⚙️ Configuration||
 
 All settings live in `.env` and are loaded via Pydantic:
 
@@ -237,7 +237,7 @@ All settings live in `.env` and are loaded via Pydantic:
 
 ---
 
-## 🐳 Docker Commands
+## 🐳 Docker Commands||
 
 ```powershell
 # View all logs
@@ -261,7 +261,7 @@ docker compose down -v
 
 ---
 
-## 🔧 Troubleshooting
+## 🔧 Troubleshooting||
 
 | Problem | Solution |
 |---|---|
@@ -275,7 +275,7 @@ docker compose down -v
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing||
 
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature/your-feature-name`
@@ -285,7 +285,7 @@ docker compose down -v
 
 ---
 
-## 📄 License
+## 📄 License||
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
