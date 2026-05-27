@@ -105,7 +105,7 @@ On the **first run**, the script will:
 - Pull Ollama models (`llama3` + `nomic-embed-text`) — takes **5–10 minutes**
 - Start all services
 
-### 3. Or start manually
+### 3. Or start manually 
 
 ```bash
 docker compose up --build -d
