@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📄 RAG Document Assistant
+# 📄 RAG Document Assistant 
 
 **Upload PDFs → Ask Questions → Get AI-Powered Answers with Source Citations**
 
